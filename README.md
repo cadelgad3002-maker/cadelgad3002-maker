@@ -15,6 +15,8 @@ Soy **Administradora de Empresas con MBA** y cuento con más de **18 años de tr
 ---
 ## 🚀 Mis Proyectos Destacados
 * **[ANALISIS VEHICULOS USA](https://github.com/cadelgad3002-maker/Analisis-Vehiculos-Usa):**  Esta aplicación web permite revisar datos de vehículos usados en Estados Unidos.
+* **[ANALISIS VENTAS VIDEOJUESGOS].(https://github.com/cadelgad3002-maker/Analisis-Videojuegos-Data/blob/main/proyecto_videojuegos.ipynb):** Con este proyecto se puede identificar patrones que determinen si un          juego tiene éxito o no, lo que apoyara en futuras desiciones y planear campañas publicitarias. 
+
 
 ## 📫 Contacto
 ¡Me encantaría conectar y explorar oportunidades de colaboración!
