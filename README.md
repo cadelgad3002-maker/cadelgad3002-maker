@@ -13,6 +13,8 @@ Soy **Administradora de Empresas con MBA** y cuento con más de **18 años de tr
 * 💡 **Diferenciador:** Visión 360° del negocio + Habilidades técnicas de datos.
 
 ---
+## 🚀 Mis Proyectos Destacados
+* **[ANALISIS VENTAS DE ](LINK_A_TU_REPOSITORIO):** Descripción breve de una línea sobre el impacto de este análisis (ej: Análisis de tendencias de consumo usando Python).
 
 ## 📫 Contacto
 ¡Me encantaría conectar y explorar oportunidades de colaboración!
