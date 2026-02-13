@@ -1,6 +1,8 @@
 # ¡Hola! Soy Carolina 👋
 
-![Portada de Data Analytics](https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=Data%20Analyst%20|%20MBA&fontSize=50&animation=fadeIn&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=Carolina%20|%20Data%20Analyst%20MBA&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 ## 👤 Sobre mí
 Soy **Administradora de Empresas con MBA** y cuento con más de **18 años de trayectoria en el sector financiero**. Actualmente, estoy integrando mi experiencia estratégica con el **Análisis de Datos** para generar soluciones que impacten la rentabilidad y la satisfacción del cliente.
@@ -13,8 +15,8 @@ Soy **Administradora de Empresas con MBA** y cuento con más de **18 años de tr
 ## 📫 Contacto
 ¡Me encantaría conectar y explorar oportunidades de colaboración!
 
-- 📧 **Email:** [cadelgad300@gmail.com]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/carolina-delgado-5b2a1878/]
+- 📧 **Email:**: cadelgad300@gmail.com]
+- 💼 **LinkedIn:**: https://www.linkedin.com/in/carolina-delgado-5b2a1878/]
 - 📍 **Ubicación:** [Dallas/Estados Unidos]
 
 ---
