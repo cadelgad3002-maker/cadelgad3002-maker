@@ -1,7 +1,7 @@
 # ¡Hola! Soy Carolina 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=Carolina%20|%20Data%20Analyst%20MBA&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/khalby71/capsule-render/master/api?type=waving&color=003366&height=200&section=header&text=Carolina%20|%20Data%20Analyst%20MBA&fontSize=50&fontColor=ffffff" />
 </p>
 
 ## 👤 Sobre mí
