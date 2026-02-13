@@ -15,8 +15,8 @@ Soy **Administradora de Empresas con MBA** y cuento con más de **18 años de tr
 ## 📫 Contacto
 ¡Me encantaría conectar y explorar oportunidades de colaboración!
 
-- 📧 **Email:**: cadelgad300@gmail.com]
-- 💼 **LinkedIn:**: https://www.linkedin.com/in/carolina-delgado-5b2a1878/]
+- 📧 **Email:** cadelgad300@gmail.com]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/carolina-delgado-5b2a1878/]
 - 📍 **Ubicación:** [Dallas/Estados Unidos]
 
 ---
