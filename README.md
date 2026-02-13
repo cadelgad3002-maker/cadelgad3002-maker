@@ -14,7 +14,7 @@ Soy **Administradora de Empresas con MBA** y cuento con más de **18 años de tr
 
 ---
 ## 🚀 Mis Proyectos Destacados
-* **[ANALISIS VENTAS DE ](LINK_A_TU_REPOSITORIO):** Descripción breve de una línea sobre el impacto de este análisis (ej: Análisis de tendencias de consumo usando Python).
+* **[ANALISIS VEHICULOS USA](https://github.com/cadelgad3002-maker/Analisis-Vehiculos-Usa):**  Esta aplicación web permite revisar datos de vehículos usados en Estados Unidos.
 
 ## 📫 Contacto
 ¡Me encantaría conectar y explorar oportunidades de colaboración!
